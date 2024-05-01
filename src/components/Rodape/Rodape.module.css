@@ -1,0 +1,15 @@
+.rodape{
+    background-color: var(--preto);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 88px;
+}
+
+.rodape h2{
+    color: var(--branco);
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    line-height: 21.94px;
+}
