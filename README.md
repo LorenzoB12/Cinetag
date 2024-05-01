@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Deploy at Vercel
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[https://github.com/facebook/create-react-app](https://cinetag-nine-delta.vercel.app/)
 
 ## Available Scripts
 
